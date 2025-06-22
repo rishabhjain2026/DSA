@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8dd5d05-85c1-4dbe-a307-0b5dc26aa735" name="Changes" comment="array question added">
+    <list default="true" id="a8dd5d05-85c1-4dbe-a307-0b5dc26aa735" name="Changes" comment="sorting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting_algorithum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting_algorithum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,21 @@
       <option name="project" value="LOCAL" />
       <updated>1749489543588</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="recursion method added">
+      <created>1749794529284</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749794529284</updated>
+    </task>
+    <task id="LOCAL-00009" summary="sorting">
+      <created>1749794608747</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749794608747</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,7 +137,9 @@
     <MESSAGE value="lecture 2 to 8" />
     <MESSAGE value="conversion" />
     <MESSAGE value="array question added" />
-    <option name="LAST_COMMIT_MESSAGE" value="array question added" />
+    <MESSAGE value="recursion method added" />
+    <MESSAGE value="sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DSA$Main.ic" NAME="Main Coverage Results" MODIFIED="1749288292101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
